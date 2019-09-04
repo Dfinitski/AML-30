@@ -1,6 +1,11 @@
 # AML-30, Active Magnetic Loop Antenna
 Frequency range 10 kHz - 30 MHz
+
 Power consumption 5V - 20 mA, 9V-12V - 26mA
+
+Order the boards on OSH PARK https://oshpark.com/shared_projects/NqlfM7xq
+
+https://oshpark.com/shared_projects/O8YIWjMf
 
 ![Foto_1](https://github.com/Dfinitski/AML-30/blob/master/AML30_Antenne.jpg)
 
